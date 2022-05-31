@@ -1,2 +1,1 @@
-# A_Tour_to_JS
-responsive scrollable website.
+Is your birthday a Palindrome!🎂

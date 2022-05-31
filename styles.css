@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+main {
+    color: aliceblue;
+    width: 280px;
+    margin: 50px auto;
+    border: 1px aliceblue;
+}
